@@ -1,5 +1,5 @@
 
-<img data-importer="snake" align="center"src="https://raw.githubusercontent.com/hungryChicken412/orange_waves/refs/heads/master/snake.svg" alt="Snake animation" />
+<img data-importer="snake" align="center" src="https://raw.githubusercontent.com/hungryChicken412/orange_waves/refs/heads/master/snake.svg" alt="Snake animation" />
 
 
 # 💫 About Me:

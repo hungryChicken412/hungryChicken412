@@ -1,3 +1,7 @@
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+
 # 💫 About Me:
 👋 Hi, I’m @hungryChicken412<br>👀 I’m interested in Web development and VIDEOGAMES!<br>🌱 I love learning new things that enhance my coding ability.<br>📫 How to reach me ? hit me up on my email: vatsalshukla2001@gmail.com
 
